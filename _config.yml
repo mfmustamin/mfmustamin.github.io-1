@@ -1,2 +1,3 @@
 name: Muhammad Fauzi Mustamin
-markdown: randommark
+markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
